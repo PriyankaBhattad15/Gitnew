@@ -7,6 +7,7 @@ public class Modify {
 			System.out.println("hoii heello");
 			System.out.println("nice");
 			System.out.println("hvvnki");
+			System.out.println("local");
 	}
 
 }
