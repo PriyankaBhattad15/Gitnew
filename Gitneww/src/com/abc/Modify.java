@@ -8,6 +8,9 @@ public class Modify {
 			System.out.println("nice");
 			System.out.println("hvvnki");
 			System.out.println("main");
+
+			System.out.println("local");
+
 	}
 
 }
