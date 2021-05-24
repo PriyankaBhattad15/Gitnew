@@ -1,4 +1,4 @@
-package com.xyz;
+package com.abc;
 
 public class Domain {
 
